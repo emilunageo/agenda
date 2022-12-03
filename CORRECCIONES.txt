@@ -1,0 +1,15 @@
+Avances a evaluar:
+
+SICTO302A:
+- Diseño clases sencillas completas (con todos los atributos y métodos requeridos).
+- Modelo un diagrama de clase útil para solucionar un problema utilizando UML.
+- Utilizo el concepto de herencia en el diagrama de clases de manera adecuada.
+- Utilizo el concepto de composición (o agreagación) en el diagrama de clases.
+- Implemento las clases en c++ siguiendo el diseño del diagrama de clases en UML.
+
+SICTO303A:
+- Implemento herencia de manera correcta y util
+- Impemento composición (o agregación) sieguiendo mi diagrama de clases
+- Implemento clases apegadas a requerimientos a partir de un modelo.
+SICTO401A:
+- Cumplo con estándares en mi repositorio: tiene un readme claro que explica el proyecto  (para que sirve,  para que no sirve y como se usa), no tiene archivos basura o versiones pasadas.
