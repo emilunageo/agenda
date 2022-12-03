@@ -29,6 +29,11 @@ public:
     string getFinishHourAndDate(){
         return finishDateAndHour;
     }
+
+    void showEvents(){
+        cout << "----EVENT----" << endl;
+        cout << "Name: " + this->name + "\nDescription: " + this->description + "\nStarting: " + this->startDateAndHour + "\nFinishing: " + this->finishDateAndHour << endl;
+    }
 };
 
 
